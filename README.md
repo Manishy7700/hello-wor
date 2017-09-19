@@ -1,3 +1,3 @@
 # hello-wor
-this is my first repository
-this is branch only
+This is my first repository
+This is first branch one
